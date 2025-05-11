@@ -1,0 +1,5 @@
+E:\Project 1\Project1 EXE\AtomicDictionary.exe
+E:\Project 1\Project1 EXE\AtomicDictionary.dll
+E:\Project 1\Project1 EXE\AtomicDictionary.deps.json
+E:\Project 1\Project1 EXE\AtomicDictionary.runtimeconfig.json
+E:\Project 1\Project1 EXE\AtomicDictionary.pdb

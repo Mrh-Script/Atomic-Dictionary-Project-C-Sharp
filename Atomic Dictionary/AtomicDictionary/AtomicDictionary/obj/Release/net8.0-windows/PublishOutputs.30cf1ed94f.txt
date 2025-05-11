@@ -1,0 +1,5 @@
+G:\Fall-2024\OOP\Project 1\AtomicDictionary.exe
+G:\Fall-2024\OOP\Project 1\AtomicDictionary.dll
+G:\Fall-2024\OOP\Project 1\AtomicDictionary.deps.json
+G:\Fall-2024\OOP\Project 1\AtomicDictionary.runtimeconfig.json
+G:\Fall-2024\OOP\Project 1\AtomicDictionary.pdb
