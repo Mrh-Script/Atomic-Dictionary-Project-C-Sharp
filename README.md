@@ -59,18 +59,11 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 📌 Note
-
-This project is made for learning and personal use.  
-You can update it by adding more data or improving the design.
-
----
-
 ## 👨‍💻 Author
 
-Minjahul Islam Pritom  
-Student of CSE  
-This is my OOP project made using C# and Visual Studio.
+Md. Riad Hasan 
+BSCSE (UG)
+Uttara University
 
 ---
 
