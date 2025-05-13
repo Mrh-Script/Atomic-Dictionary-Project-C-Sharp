@@ -32,16 +32,6 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 📁 Project Files
-
-- `Form1.cs`: Main form for user input.
-- `Form2.cs`: Shows the result (atom details).
-- `Program.cs`: Starts the application.
-- `Resources.resx`: Stores project resources like images or strings.
-- `AtomicDictionary.csproj`: Project configuration file.
-
----
-
 ## 🚀 How to Run
 
 1. Open the project in **Visual Studio** (2022 or later).
