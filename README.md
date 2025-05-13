@@ -49,11 +49,23 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
+## 🖼️ Interfaces
+
+<table>
+  <tr>
+    <td><img src="u1" alt="Home UI" width="300"/></td>
+    <td><img src="u2" alt="Search Result" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="au1" alt="Invalid Entry" width="300"/></td>
+    <td><img src="au2" alt="About Window" width="300"/></td>
+  </tr>
+</table>
+
+---
+
 ## 👨‍💻 Author
 
 Md. Riad Hasan  
 BSCSE    
 Uttara University
-
----
-
