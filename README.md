@@ -1,11 +1,12 @@
 # Atomic Dictionary
 
+## 📝 Summary
 **Atomic Dictionary** is a Windows Forms Application made in C#.  
 It helps users find basic information about chemical elements (atoms) using their **name** or **symbol**.
 
 ---
 
-## 🔍 Features
+## ⭐ Features
 
 - Search by atom **name** or **symbol**  
 - See useful information about the element  
@@ -14,7 +15,7 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 💻 Technologies Used
+## 🛠️ Technologies Used
 
 - C# (C Sharp)
 - Windows Forms (WinForms)
@@ -23,7 +24,7 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 🛠 How It Works
+## 🔰 How It Works
 
 1. Open the application.
 2. Enter an atom's **name** or **symbol** in the input box.
@@ -32,7 +33,7 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 🚀 How to Run
+## ▶️ How to Run
 
 1. Open the project in **Visual Studio** (2022 or later).
 2. Make sure `.NET 8.0` is installed.
@@ -64,7 +65,7 @@ It helps users find basic information about chemical elements (atoms) using thei
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
 Md. Riad Hasan  
 BSCSE    
